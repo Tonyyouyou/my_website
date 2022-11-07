@@ -13,6 +13,8 @@ authors:
 author_notes:
   - "*Equal contribution"
 doi: https://arxiv.org/abs/2210.11658
+links:
+url_pdf: https://arxiv.org/abs/2210.11658
 publication: ""
 draft: false
 featured: false
