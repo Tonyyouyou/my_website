@@ -12,7 +12,8 @@ authors:
   - Roberto Togneri
 author_notes:
   - "*Equal contribution"
-publication: https://arxiv.org/abs/2210.11658
+doi: https://arxiv.org/abs/2210.11658
+publication: ""
 draft: false
 featured: false
 image:
