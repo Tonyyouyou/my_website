@@ -41,4 +41,4 @@ email: ""
 ---
 I am a master student at CLSP in Johns Hopkins University.  I major in Electrical and Computer Engineering(Human Language Technology) 
 
-**My research interests** include Speech Processing, Quantum Machine Learning, Digital Health. 
+**My research interests:** Speech Processing,Multimodal Quantum Machine Learning, Digital Health.
