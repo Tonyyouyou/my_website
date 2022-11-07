@@ -3,6 +3,15 @@ title: A New Approach to Extract Fetal Electrocardiogram Using Affine
   Combination of Adaptive Filters
 publication_types:
   - "1"
+authors:
+  - Yu Xuan*
+  - Xiangyu Zhang*
+  - Shuyue Stella Li
+  - Zihan Shen
+  - Leibny Paola Garcia
+  - Roberto Togneri
+author_notes:
+  - "*†Equal contribution"
 draft: false
 featured: false
 image:
