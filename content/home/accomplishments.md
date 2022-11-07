@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 150
+weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -62,14 +62,6 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Machine Learning
-    url: ''
-  - certificate_url: https://courses.edx.org/certificates/8047dc318a9348f2ad26620bbbc178bf
-    date_end: ''
-    date_start: '2021-03-01'
-    description:
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Databases: Relational Databases and SQL
     url: ''
 design:
   columns: '2'
