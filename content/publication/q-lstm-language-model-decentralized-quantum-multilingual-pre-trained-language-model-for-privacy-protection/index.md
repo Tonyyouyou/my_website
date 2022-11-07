@@ -13,7 +13,7 @@ authors:
   - Hexin Liu
   - Leibny Paola Garcia
 
-url_pdf: https://arxiv.org/abs/2210.03221
+url_pdf: "https://arxiv.org/abs/2210.03221"
 url_dataset: ""
 url_project: ""
 url_source: ""
