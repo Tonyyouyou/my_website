@@ -32,7 +32,7 @@ content:
     - name: Multimodal
       tag: Multimodal
     - name: Quantum Machine Learning
-      tag: Quantum
+      tag: Quantum Machine Learning
     - name: Digital Health
       tag: Digital Health
 
