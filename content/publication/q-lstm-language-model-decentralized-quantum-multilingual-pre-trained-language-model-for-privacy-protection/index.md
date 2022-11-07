@@ -12,6 +12,13 @@ authors:
   - Ruixing Liang
   - Hexin Liu
   - Leibny Paola Garcia
+
+url_pdf: https://arxiv.org/abs/2210.03221
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+
 author_notes:
   - "*Equal contribution in alphabetical order"
 draft: false
