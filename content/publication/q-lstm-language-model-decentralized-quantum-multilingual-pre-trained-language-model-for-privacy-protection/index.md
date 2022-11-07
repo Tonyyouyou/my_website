@@ -19,7 +19,7 @@ title: Q-LSTM Language Model--Decentralized Quantum Multilingual Pre-Trained
   Language Model for Privacy Protection
 subtitle: ""
 author_notes:
-  - "*Equal contribution"
+  - "*Equal contribution in alphabetical order"
 featured: false
 image:
   filename: featured
