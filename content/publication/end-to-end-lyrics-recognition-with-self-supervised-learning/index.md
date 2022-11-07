@@ -8,6 +8,7 @@ authors:
   - Zhanhong He
   - Roberto Togneri
   - Leibny Paola Garcia
+url_pdf: https://arxiv.org/abs/2209.12702
 draft: false
 featured: false
 image:
