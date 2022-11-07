@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Speech Processing
+      tag: Speech Processing
+    - name: Multimodal
+      tag: Multimodal
+    - name: Quantum Machine Learning
+      tag: Quantum
+    - name: Digital Health
+      tag: Digital Health
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
