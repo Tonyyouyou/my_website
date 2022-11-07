@@ -4,7 +4,7 @@ date: 2022-11-07T18:40:34.379Z
 draft: false
 featured: false
 tags:
-  - Quantum
+  - Quantum Machine Learning
 image:
   filename: model.jpeg
   focal_point: Smart
