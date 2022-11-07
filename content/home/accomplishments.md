@@ -23,29 +23,53 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/TSBYRJERA9ZF
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-06-02'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Algorithms
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/J8GHPAWWUTCQ
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    date_start: '2021-06-12'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: TensorFlow 2 for Deep Learning
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/M3Q9APH3SH2R
+    date_end: ''
+    date_start: '2021-02-20'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Natural Language Processing
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/MEE8H9GSTS27
+    date_end: ''
+    date_start: '2021-01-16'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FP8MGDUE3UH7
+    date_end: ''
+    date_start: '2020-02-26'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Machine Learning
+    url: ''
+  - certificate_url: https://courses.edx.org/certificates/8047dc318a9348f2ad26620bbbc178bf
+    date_end: ''
+    date_start: '2021-03-01'
+    description:
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: Databases: Relational Databases and SQL
     url: ''
 
 design:
