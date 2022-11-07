@@ -4,6 +4,8 @@ title: A New Approach to Extract Fetal Electrocardiogram Using Affine
 date: 2022-11-07T18:33:43.271Z
 draft: false
 featured: false
+tags:
+  - Digital Health
 image:
   filename: rls_filter.png
   focal_point: Smart
