@@ -47,30 +47,6 @@ item:
     organization_url: https://www.coursera.org
     title: Natural Language Processing
     url: ''
-  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/MEE8H9GSTS27
-    date_end: ''
-    date_start: '2021-01-16'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Deep Learning
-    url: ''
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FP8MGDUE3UH7
-    date_end: ''
-    date_start: '2020-02-26'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Machine Learning
-    url: ''
-  - certificate_url: https://courses.edx.org/certificates/8047dc318a9348f2ad26620bbbc178bf
-    date_end: ''
-    date_start: '2021-03-01'
-    description:
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Databases: Relational Databases and SQL
-    url: ''
 
 design:
   columns: '2'
