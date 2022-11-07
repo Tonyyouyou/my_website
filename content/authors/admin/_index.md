@@ -5,9 +5,9 @@ avatar_filename: wechatimg124.jpeg
 bio: My research interests include Speech Processing, Quantum Machine Learning,
   Digital Health
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Speech Processing
+  - Quantum Machine Learning
+  - Digital Health
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,7 +29,8 @@ education:
     - course: Master of Science in Electrical Engineering(Human Language Technology)
       institution: Johns Hopkins University
       year: ""
-    - course: Bachelor of Science(Honours) in Engineering Science
+    - course: Bachelor of Science(Honours) in Engineering Science with First Class
+        Honours
       institution: University of Western Australia
       year: ""
     - course: Bachelor of Science in Engineering Science and Finance
