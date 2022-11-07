@@ -9,9 +9,6 @@ interests:
   - Quantum Machine Learning
   - Digital Health
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: xzhan233@jh.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=SR2TlvcAAAAJ&hl=en
