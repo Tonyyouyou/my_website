@@ -11,7 +11,8 @@ authors:
   - Leibny Paola Garcia
   - Roberto Togneri
 author_notes:
-  - "*†Equal contribution"
+  - "*Equal contribution"
+publication: https://arxiv.org/abs/2210.11658
 draft: false
 featured: false
 image:
@@ -20,4 +21,3 @@ image:
   preview_only: false
 date: 2022-11-07T18:50:01.226Z
 ---
-https://arxiv.org/abs/2210.11658
