@@ -1,7 +1,6 @@
 ---
-title: Q-LSTM Language Model--Decentralized Quantum Multilingual Pre-Trained
-  Language Model for Privacy Protection
-subtitle: ""
+draft: false
+url_pdf: https://arxiv.org/abs/2210.03221
 publication_types:
   - "1"
 authors:
@@ -12,16 +11,15 @@ authors:
   - Ruixing Liang
   - Hexin Liu
   - Leibny Paola Garcia
-
-url_pdf: "https://arxiv.org/abs/2210.03221"
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-
+title: Q-LSTM Language Model--Decentralized Quantum Multilingual Pre-Trained
+  Language Model for Privacy Protection
+subtitle: ""
 author_notes:
-  - "*Equal contribution in alphabetical order"
-draft: false
+  - "*Equal contribution"
 featured: false
 image:
   filename: featured
