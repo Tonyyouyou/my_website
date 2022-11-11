@@ -5,6 +5,9 @@ draft: false
 featured: true
 tags:
   - Speech Processing
+links:
+  - url: https://arxiv.org/abs/2209.12702
+    name: Paper Link
 image:
   filename: music_pipeline.jpeg
   focal_point: Smart
