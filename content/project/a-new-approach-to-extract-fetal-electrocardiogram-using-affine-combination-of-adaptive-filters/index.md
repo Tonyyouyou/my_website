@@ -6,6 +6,9 @@ draft: false
 featured: false
 tags:
   - Digital Health
+links:
+  - url: https://arxiv.org/abs/2210.11658
+    icon_pack: ai
 image:
   filename: rls_filter.png
   focal_point: Smart
