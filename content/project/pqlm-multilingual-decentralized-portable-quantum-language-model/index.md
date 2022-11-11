@@ -5,6 +5,9 @@ draft: false
 featured: false
 tags:
   - Quantum Machine Learning
+links:
+  - url: https://arxiv.org/abs/2210.03221
+    name: Paper Link
 image:
   filename: model.jpeg
   focal_point: Smart
