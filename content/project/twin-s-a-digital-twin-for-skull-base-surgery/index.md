@@ -3,6 +3,8 @@ title: "Twin-S: A Digital Twin for Skull-base Surgery"
 date: 2022-11-23T20:50:03.608Z
 draft: false
 featured: false
+categories:
+  - Multimodal
 links:
   - name: Paper Link
     url: https://arxiv.org/abs/2211.11863
