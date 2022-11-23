@@ -17,6 +17,7 @@ authors:
   - Mathias Unberath
 draft: false
 featured: false
+url_pdf: https://arxiv.org/abs/2211.11863
 image:
   filename: featured
   focal_point: Smart
