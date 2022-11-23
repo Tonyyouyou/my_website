@@ -20,6 +20,7 @@ title: Q-LSTM Language Model--Decentralized Quantum Multilingual Pre-Trained
 subtitle: ""
 author_notes:
   - "*Equal contribution in alphabetical order"
+publication: ""
 featured: false
 image:
   filename: featured
