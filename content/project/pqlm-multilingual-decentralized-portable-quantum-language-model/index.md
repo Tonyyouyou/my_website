@@ -6,7 +6,7 @@ featured: false
 tags:
   - Quantum Machine Learning
 links:
-  - url: https://arxiv.org/abs/2210.03221
+  - url: https://ieeexplore.ieee.org/abstract/document/10095215
     name: Paper Link
 image:
   filename: model.jpeg
