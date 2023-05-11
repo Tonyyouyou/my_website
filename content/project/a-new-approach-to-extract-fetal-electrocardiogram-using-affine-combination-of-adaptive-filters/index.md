@@ -7,7 +7,7 @@ featured: false
 tags:
   - Digital Health
 links:
-  - url: https://arxiv.org/abs/2210.11658
+  - url: https://ieeexplore.ieee.org/abstract/document/10095885
     icon_pack: null
     name: Paper Link
 image:
