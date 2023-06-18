@@ -9,7 +9,7 @@ tags:
 categories: []
 links:
   - name: Paper Link
-    url: https://arxiv.org/abs/2211.11863
+    url: https://link.springer.com/article/10.1007/s11548-023-02863-9
 image:
   filename: digital-twin.png
   focal_point: Smart
