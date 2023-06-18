@@ -34,12 +34,14 @@ education:
     - course: Bachelor of Science in Engineering Science and Finance
       institution: University of Western Australia
       year: ""
+    - course: Doctor of Philosophy in Electrical Engineering
+      institution: University of New South Wales
 superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am a Ph.D. student at University of New South Wales supervised by Julien Epps<http://maestro.ee.unsw.edu.au/~julien/> and Beena Ahmed. Previous to this, I am a master's student at CLSP at Johns Hopkins University majoring in Human Language Technology.
+I am a Ph.D. student at The University of New South Wales supervised by Julien Epps[](http://maestro.ee.unsw.edu.au/~julien/) and Beena Ahmed. Previous to this, I am a master's student at CLSP at Johns Hopkins University majoring in Human Language Technology.
 
 **My research interests:** Speech Processing,Multimodal,Quantum Machine Learning, Digital Health.
