@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Baltimore
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2023-06-01'
     description: Research in Speech processing and Quantum Machine Learning
 
   - title: Research Assistant
