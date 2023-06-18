@@ -2,7 +2,7 @@
 title: "MERLIon CCS Challenge: A English-Mandarin code-switching child-directed
   speech corpus for language identification and diarization"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Victoria Y. H. Chua
   - Hexin Liu
