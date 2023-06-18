@@ -20,10 +20,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/xiangyu-zhang-a0735b194/
 organizations:
-  - name: Johns Hopkins University
-    url: https://www.jhu.edu/
+  - name: University of New South Wales
+    url: https://www.unsw.edu.au/study
 education:
   courses:
+    - course: Doctor of Philosophy in Electrical Engineering
+      institution: University of New South Wales
     - course: Master of Science in Electrical Engineering(Human Language Technology)
       institution: Johns Hopkins University
       year: ""
@@ -34,8 +36,6 @@ education:
     - course: Bachelor of Science in Engineering Science and Finance
       institution: University of Western Australia
       year: ""
-    - course: Doctor of Philosophy in Electrical Engineering
-      institution: University of New South Wales
 superuser: true
 last_name: Bighetti
 highlight_name: true
