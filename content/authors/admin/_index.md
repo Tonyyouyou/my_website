@@ -1,7 +1,7 @@
 ---
 title: Xiangyu Zhang
 role: ""
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include Speech Processing, Multimodal,Quantum Machine
   Learning, Digital Health
 interests:
