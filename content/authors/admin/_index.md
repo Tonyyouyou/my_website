@@ -42,6 +42,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am a Ph.D. student at The University of New South Wales supervised by [Julien Epps](https://scholar.google.com/citations?hl=en&user=VzA-vskAAAAJ&view_op=list_works&sortby=pubdate)[](http://maestro.ee.unsw.edu.au/~julien/) and [](https://www.unsw.edu.au/staff/beena-ahmed)[Beena Ahmed](https://scholar.google.com/citations?user=crMO9PcAAAAJ&hl=en&oi=ao). Previous to this, I am a master's student at CLSP at Johns Hopkins University majoring in Human Language Technology.
+I am a Ph.D. student at University of New South Wales supervised by [Julien Epps](https://scholar.google.com/citations?hl=en&user=VzA-vskAAAAJ&view_op=list_works&sortby=pubdate)[](http://maestro.ee.unsw.edu.au/~julien/) and [](https://www.unsw.edu.au/staff/beena-ahmed)[Beena Ahmed](https://scholar.google.com/citations?user=crMO9PcAAAAJ&hl=en&oi=ao). Previous to this, I am a master's student at CLSP at Johns Hopkins University majoring in Human Language Technology.
 
 **My research interests:** Speech Processing,Multimodal,Quantum Machine Learning, Digital Health.
