@@ -4,7 +4,7 @@ date: 2022-11-07T18:40:34.379Z
 draft: false
 featured: false
 tags:
-  - Quantum Machine Learning
+  - Speech Processing
 links:
   - url: https://ieeexplore.ieee.org/abstract/document/10095215
     name: Paper Link
