@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xzhan233@jh.edu
+  email: xiangyu.zhang2@unsw.edu.au
 
 design:
   columns: '2'
