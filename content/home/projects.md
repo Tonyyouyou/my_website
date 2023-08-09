@@ -27,12 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Speech Processing
+    - name: Speech and Language Technology
       tag: Speech Processing
     - name: Multimodal
       tag: Multimodal
-    - name: Quantum Machine Learning
-      tag: Quantum Machine Learning
     - name: Digital Health
       tag: Digital Health
 
