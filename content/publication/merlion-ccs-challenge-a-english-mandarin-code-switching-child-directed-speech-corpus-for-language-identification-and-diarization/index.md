@@ -16,7 +16,8 @@ authors:
   - Suzy J. Styles
 draft: false
 featured: false
-image:
+url_pdf: https://arxiv.org/abs/2305.18881
+image: 
   filename: featured
   focal_point: Smart
   preview_only: false
