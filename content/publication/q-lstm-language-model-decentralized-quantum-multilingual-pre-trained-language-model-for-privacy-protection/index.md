@@ -15,8 +15,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-title: Q-LSTM Language Model--Decentralized Quantum Multilingual Pre-Trained
-  Language Model for Privacy Protection
+title: PQLM - Multilingual Decentralized Portable Quantum Language Model
 subtitle: ""
 author_notes:
   - "*Equal contribution in alphabetical order"
