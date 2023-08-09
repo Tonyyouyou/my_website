@@ -2,12 +2,11 @@
 title: Xiangyu Zhang
 role: ""
 avatar_filename: avatar.png
-bio: My research interests include Speech Processing, Multimodal,Quantum Machine
-  Learning, Digital Health
+bio: My research interests include Speech and Language Technology, Multimodal,
+  Digital Health
 interests:
-  - Speech Processing
+  - Speech and Language Technology
   - Multimodal
-  - Quantum Machine Learning
   - Digital Health
 social:
   - icon: graduation-cap
@@ -44,4 +43,4 @@ email: ""
 ---
 I am a Ph.D. student at University of New South Wales supervised by [Julien Epps](https://scholar.google.com/citations?hl=en&user=VzA-vskAAAAJ&view_op=list_works&sortby=pubdate)[](http://maestro.ee.unsw.edu.au/~julien/) and [](https://www.unsw.edu.au/staff/beena-ahmed)[Beena Ahmed](https://scholar.google.com/citations?user=crMO9PcAAAAJ&hl=en&oi=ao). Previous to this, I am a master's student at CLSP at Johns Hopkins University majoring in Human Language Technology.
 
-**My research interests:** Speech Processing,Multimodal,Quantum Machine Learning, Digital Health.
+**My research interests:** Speech and Language Technology, Multimodal, Digital Health
